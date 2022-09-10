@@ -1,5 +1,6 @@
 from car import Car
-car=Car("A")
+car1=Car("A")
+car2=Car("B")
 
 
 
